@@ -1,12 +1,12 @@
 <p align="center">
-  <img alt="logo"  width="240px" height="70px" src=".github/logo.png" />
+  <img alt="logo"  width="70px" height="70px" src=".github/logo.png" />
 </p>
 
 ## **💻** Projeto
 
 Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
 
-A fim de consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, desenvolvi uma aplicação backend durante o programa de aceleração “Coding The Future Avanade - .NET Developer”, promovido pela Digital Innovation one, onde contruímos um sistema de estacionamento, utilizando C#.
+A fim de consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, desenvolvi uma aplicação backend durante o programa de aceleração “Coding The Future Avanade - .NET Developer”, promovido pela Digital Innovation one, utilizando C#.
 
 ## Tecnologias utilizadas
 
